@@ -1,13 +1,3 @@
+¡Hola!
 
-using System;
-
-namespace teleprgm2
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola Progr2!");
-        }
-    }
-}
+Soy Mario Perez y estudio Ing. en Telematica! 
